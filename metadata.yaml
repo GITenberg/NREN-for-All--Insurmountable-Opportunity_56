@@ -1,0 +1,24 @@
+_repo: NREN-for-All--Insurmountable-Opportunity_56
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Polly, Jean Armour
+    gutenberg_agent_id: '38'
+    url: http://www.gutenberg.org/2009/agents/38
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Armour_Polly
+description: ''
+gutenberg_issued: '1993-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'National Research and Education Network (Computer network)'
+- !lcsh 'Internet'
+- !lcc 'TK'
+- GITenberg
+title: 'NREN for All: Insurmountable Opportunity'
+url: http://www.gutenberg.org/ebooks/56
